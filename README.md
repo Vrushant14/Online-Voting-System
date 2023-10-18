@@ -20,11 +20,18 @@ ballots. The system hence, effectively determines the election winner by countin
 votes for each candidate and declaring the candidate with the highest number of
 votes as the overall winner.
 
+
+![image](https://github.com/Vrushant14/Online-Voting-System/assets/120646742/1623db3c-4ec4-466a-b2be-31bee3a4c4da)
+
+
+
 Group Members:
 1 22070122218 Sreehari Baburaj
 sreehari.baburaj.btech2022@sitpune.edu.in
+
 2 22070122251 Vrushant Mukherjee
 vrushant.mukherjee.btech2022@sitpune.edu.in
+
 3 22070122253 Yaminee Chaudhary
 Yaminee.chaudhary.btech2022@sitpune.edu.in
 
