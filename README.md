@@ -21,8 +21,7 @@ votes for each candidate and declaring the candidate with the highest number of
 votes as the overall winner.
 
 
-![image](https://github.com/Vrushant14/Online-Voting-System/assets/120646742/1623db3c-4ec4-466a-b2be-31bee3a4c4da)
-
+![image](https://github.com/Vrushant14/Online-Voting-System/assets/120646742/ca2400ec-0b47-4627-9774-71ca1bbfaa2d)
 
 
 Group Members:
